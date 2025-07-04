@@ -64,7 +64,7 @@ For token streaming:
 "Is user data shared with third parties?"
 ```
 Sample Output Screenshot:
-![RAG Chatbot Demo Screenshot](assets/1.png)
+![RAG Chatbot Demo Screenshot](assets/1.jpg)
 
 ## 📺 Demo Video
 👉 [Watch project demo here](https://drive.google.com/file/d/1GDCuwrr2BGQg4-NTokgZ2lRUJga5bTKk/view?usp=sharing)
